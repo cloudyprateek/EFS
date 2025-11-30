@@ -1,4 +1,4 @@
-#  AWS Project — Shared File Storage for Web Applications Using Amazon EFS  
+#  AWS Project — Shared File Storage Amazon EFS  
 
 Amazon EFS (Elastic File System) is a fully managed, scalable, shared file storage service for EC2 instances.  
 In this project, I implemented a **shared storage architecture** where multiple EC2 instances access the same file system using **EFS + Mount Targets + Security Groups**.
